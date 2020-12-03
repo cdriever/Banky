@@ -1,0 +1,9 @@
+name: Banky
+version: 1.0.0
+author: UlvBror
+main: com.ulvbror.banky.Banky
+api-version: 1.14
+commands:
+  bank:
+    description: Interacts with the Virtual Banking tool
+    usage: /<command>
