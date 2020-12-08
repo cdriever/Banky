@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Dependencies/spigot-api-1.16.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Dependencies/spigot-api-1.16.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
